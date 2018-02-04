@@ -1,5 +1,5 @@
 {
-  "name": "securestorage",
+  "name": "secure-store",
   "version": "0.0.1",
   "description": "Securely store content on a public client",
   "main": "secstore.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Download/securestorage.git"
+    "url": "git+https://github.com/download/secure-store.git"
   },
   "keywords": [
     "secure",
     "storage",
-    "securestorage",
+    "secure-store",
     "webstorage"
   ],
   "author": "Stijn de Witt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Download/securestorage/issues"
+    "url": "https://github.com/download/secure-store/issues"
   },
-  "homepage": "https://github.com/Download/securestorage#readme"
+  "homepage": "https://github.com/download/secure-store"
 }
